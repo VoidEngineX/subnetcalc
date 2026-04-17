@@ -1,0 +1,13 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Cargo
+Cargo.lock   # Remove this line if you want reproducible builds
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
